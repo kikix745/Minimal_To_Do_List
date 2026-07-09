@@ -24,10 +24,15 @@ _Also to control the code fromm scratch.
 
 -------To-Do List-------
 1. Add task
+
 2. View tasks
+
 3.Mark task as done
+
 4.Delete task
+
 5. Exit
+
 ------------------------
 
 
