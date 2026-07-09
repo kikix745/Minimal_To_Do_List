@@ -17,3 +17,14 @@ _Also to control the code fromm scratch.
 ## Future Improvements
 - Graphical user interface (GUI)
 - Using IA for optimized suggestions
+
+
+
+#To Do List menu
+-------To-Do List-------
+1. Add task
+2. View tasks
+3.Mark task as done
+4.Delete task
+5. Exit
+------------------------
