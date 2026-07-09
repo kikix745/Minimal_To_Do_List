@@ -60,7 +60,7 @@ def delete_task():
     
 while True:
         Show_Menu()
-        choice=input("enter you choice ")
+        choice=input("enter you choice :")
         if (choice=='1'):
              Add_Task()
         elif (choice=='2'):
@@ -70,10 +70,10 @@ while True:
         elif (choice=='4'): 
              delete_task()  
         elif (choice=='5'): 
-            print("GoodBye Mate")
+            print("GoodBye Mate!")
             break
         else:
-            print("invald choice try again")    
+            print("invalid choice try again")    
              
         
         
