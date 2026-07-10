@@ -6,11 +6,11 @@ tasks=[]
 
 def Show_Menu():
     print("-------To-Do List-------")
-    print("1. Add task")
-    print("2. View tasks")
+    print("1.Add task")
+    print("2.View tasks")
     print("3.Mark task as done")
     print("4.Delete task")
-    print("5. Exit")
+    print("5.Exit")
     print("------------------------")
 
     print("Choose option from the list (1-5)")
