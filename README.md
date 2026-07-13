@@ -4,7 +4,7 @@ _So this is a minimal To Do List ,to avoid distraction .
 
 _the trick here is using functions instead of coding directly .
 
-_Also to control the code fromm scratch.
+_Also to control the code from scratch.
 
 
 ## Features
